@@ -12,7 +12,6 @@ import { ListarDepartamentoComponent } from './departamento/listar-departamento/
 import { EliminarDepartamentoComponent } from './departamento/eliminar-departamento/eliminar-departamento.component';
 import { CrearCiudadComponent } from './ciudad/crear-ciudad/crear-ciudad.component';
 import { EditarCiudadComponent } from './ciudad/editar-ciudad/editar-ciudad.component';
-import { LiminarCiudadComponent } from './ciudad/liminar-ciudad/liminar-ciudad.component';
 import { EliminarCiudadComponent } from './ciudad/eliminar-ciudad/eliminar-ciudad.component';
 import { ListarCiudadComponent } from './ciudad/listar-ciudad/listar-ciudad.component';
 import { CrearTipoMascotaComponent } from './tipoMascota/crear-tipo-mascota/crear-tipo-mascota.component';
@@ -37,7 +36,6 @@ import { ListarRazaComponent } from './raza/listar-raza/listar-raza.component';
     EliminarDepartamentoComponent,
     CrearCiudadComponent,
     EditarCiudadComponent,
-    LiminarCiudadComponent,
     EliminarCiudadComponent,
     ListarCiudadComponent,
     CrearTipoMascotaComponent,
